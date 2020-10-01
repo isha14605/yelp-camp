@@ -1,4 +1,4 @@
-#Yelp Camp
+#yelp-camp
 
 A website that allows users to write reviews for campgrounds.
 
